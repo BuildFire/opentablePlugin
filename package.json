@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simply enter your OpenTable page URL to allow your users to schedule reservations right through your app.",
   "main": "index.js",
+  "supportSite":"http://learn.appdocumentation.com/plugin-tutorials/opentable-plugin-tutorial",
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install",
     "test": "./node_modules/.bin/karma start karma.conf.js"
